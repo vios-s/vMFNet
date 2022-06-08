@@ -21,7 +21,7 @@ The repository is created by [Xiao Liu](https://github.com/xxxliu95), [Spyridon 
 ```
 @inproceedings{liu2022vmfnet,
   title={vMFNet: Compositionality Meets Domain-generalised Segmentation},
-  author={Liu, Xiao and Thermos, Spyridon and O’Neil, Alison and Tsaftaris, Sotirios A.},
+  author={Liu, Xiao and Thermos, Spyridon and Pedro, Sanchez and O’Neil, Alison and Tsaftaris, Sotirios A.},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
   year={2022},
   organization={Springer}
