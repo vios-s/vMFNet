@@ -12,6 +12,7 @@ The repository is created by [Xiao Liu](https://github.com/xxxliu95), [Spyridon 
 * CUDA toolkit 10 or newer
 * Nibabel
 * Pillow
+* CV2
 * Scikit-image
 * TensorBoard
 * Tqdm
