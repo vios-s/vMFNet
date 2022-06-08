@@ -1,7 +1,7 @@
 # vMFNet
 vMFNet: Compositionality Meets Domain-generalised Segmentation
 
-This repository contains the official Pytorch implementation of [vMFNet: Compositionality Meets Domain-generalised Segmentation](accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/)).
+This repository contains the official Pytorch implementation of vMFNet: Compositionality Meets Domain-generalised Segmentation (accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/)).
 
 The repository is created by [Xiao Liu](https://github.com/xxxliu95), [Spyridon Thermos](https://github.com/spthermo), [Pedro Sanchez](https://vios.science/team/sanchez), [Alison O'Neil](https://vios.science/team/oneil), and [Sotirios A. Tsaftaris](https://www.eng.ed.ac.uk/about/people/dr-sotirios-tsaftaris), as a result of the collaboration between [The University of Edinburgh](https://www.eng.ed.ac.uk/) and [Canon Medical Systems Europe](https://eu.medical.canon/). You are welcome to visit our group website: [vios.s](https://vios.science/)
 
