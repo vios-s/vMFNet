@@ -1,3 +1,5 @@
+# Code will be uploaded soon.
+
 # vMFNet
 vMFNet: Compositionality Meets Domain-generalised Segmentation
 
