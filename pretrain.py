@@ -34,7 +34,7 @@ def get_args():
 
     return parser.parse_args()
 
-# python pretrain.py -e 50 -bs 4 -c cp_unet_100_tvA/ -t A -w UNet_tvA -g 0
+# python pretrain.py -e 50 -bs 4 -c /home/s1575424/xiao/Year3/comp_decoder/CompCSD/cp_unet_100_tvA/ -t A -w UNet_tvA -g 0
 
 def train_net(args):
     epochs = args.epochs

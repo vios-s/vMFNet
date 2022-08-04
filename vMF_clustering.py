@@ -29,7 +29,7 @@ def get_args():
 
 args = get_args()
 
-# python vMF_clustering.py -c cp_unet_100_tvA/ -t A -g 0
+# python vMF_clustering.py -c /home/s1575424/xiao/Year3/comp_decoder/CompCSD/cp_unet_100_tvA/ -t A -g 0
 
 ######################################################################################
 ###################################### load the extractor
