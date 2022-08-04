@@ -1,5 +1,5 @@
 # vMFNet: Compositionality Meets Domain-generalised Segmentation
-
+![model](figures/model.png)
 
 This repository contains the official Pytorch implementation of [vMFNet: Compositionality Meets Domain-generalised Segmentation](https://arxiv.org/abs/2206.14538) accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/)).
 
