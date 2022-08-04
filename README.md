@@ -27,13 +27,11 @@ Cardiac Image Segmentation Challenge (M&Ms) datast](https://www.ub.edu/mnms/) an
 You need to first change the dirs in the scripts of preprocess folder. Download the M&Ms data and run ```split_MNMS_data.py``` to split the original dataset into different domains. Then run ```save_MNMS_2D.py``` to save the original 4D data as 2D numpy arrays. Finally, run ```save_MNMS_re.py``` to save the resolution of each datum. 
 
 # Pre-training a UNet for image reconstruction
-Pre-train a UNet by run:
 ```
 python pretrain.py -e 50 -bs 4 -c xxx/cp_unet_100_tvA/ -t A -w UNet_tvA -g 0
 ```
 
 # Cluster the feature vectors to initilize the vMF kernels
-Run:
 ```
 python vMF_clustering.py -c xxx/cp_unet_100_tvA/ -t A -g 0
 ```
