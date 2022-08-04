@@ -66,6 +66,8 @@ python inference.py -bs 1 -c cp_vmfnet_2_tvA/ -enc xxx/cp_unet_100_tvA/UNet.pth 
 ```
 This will output the DICE and Hausdorff results as well as the standard deviation. Similarly, changing the ```resampling_rate=1.2``` (line 47) in ```mms_dataloader_dg_aug_test.py``` to 1.1 - 1.3 may give better results.
 
+# Examples of kernel activations:
+![kernels](figures/kernels.png)
 
 # Citation
 ```
