@@ -46,14 +46,14 @@ def get_args():
 # k2 = 4
 
 # python train.py -e 1200 -bs 4 -c cp_vmfnet_5_tvA/ -enc /home/s1575424/xiao/Year3/comp_decoder/CompCSD/cp_unet_100_tvA/UNet.pth -t A -w vmfnet_12_p5_tvA -g 0
-# k_un = 1
-# k1 = 400
-# k2 = 40
+k_un = 1
+k1 = 400
+k2 = 40
 
 # python train.py -e 2000 -bs 4 -c cp_vmfnet_2_tvA/ -enc /home/s1575424/xiao/Year3/comp_decoder/CompCSD/cp_unet_100_tvA/UNet.pth -t A -w vmfnet_12_p2_tvA -g 0
-k_un = 1
-k1 = 600
-k2 = 80
+# k_un = 1
+# k1 = 600
+# k2 = 80
 
 
 

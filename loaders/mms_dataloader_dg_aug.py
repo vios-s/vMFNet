@@ -145,9 +145,9 @@ class ImageFolder(data.Dataset):
             #100%
             # k = 1
             #5%
-            # k = 0.05
+            k = 0.05
             #2%
-            k = 0.02
+            # k = 0.02
         else:
             k = 1
 
