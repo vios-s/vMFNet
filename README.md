@@ -1,5 +1,3 @@
-# Training details will be updated soon.
-
 # vMFNet: Compositionality Meets Domain-generalised Segmentation
 
 
