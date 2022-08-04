@@ -80,5 +80,8 @@ This will output the DICE and Hausdorff results as well as the standard deviatio
 }
 ```
 
+# Acknowlegement
+Part of the code is based on [SDNet](https://github.com/spthermo/SDNet), [DGNet](https://github.com/vios-s/DGNet), [CompositionalNets](https://github.com/AdamKortylewski/CompositionalNets) and [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet).
+
 # License
 All scripts are released under the MIT License.
