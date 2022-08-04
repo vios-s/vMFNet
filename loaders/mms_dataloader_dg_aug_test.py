@@ -47,7 +47,7 @@ Labeled_mask_dir = [LabeledVendorA_mask_dir, LabeledVendorB2_mask_dir, LabeledVe
 
 # A, B 1.2
 # C, D 1.1
-resampling_rate = 1.2
+resampling_rate = 1.1
 
 def get_dg_data_loaders(batch_size, test_vendor='D', image_size=224):
 
