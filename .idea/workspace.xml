@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e27b7e5-6234-4985-b103-55876c0e73e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/loaders/mms_dataloader_dg_aug.py" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/mms_dataloader_dg_aug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="6e27b7e5-6234-4985-b103-55876c0e73e9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,7 @@
       <workItem from="1657891832487" duration="2385000" />
       <workItem from="1658236129015" duration="2678000" />
       <workItem from="1659520856644" duration="1963000" />
-      <workItem from="1659604656271" duration="1713000" />
+      <workItem from="1659604656271" duration="2188000" />
     </task>
     <servers />
   </component>
